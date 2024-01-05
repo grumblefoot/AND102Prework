@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodepathAND102Prework_HelloWorld</string>
+    <string name="my_main_text_body">Hello! My name is Rowan and I enjoy android development</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
